@@ -14,6 +14,8 @@ Pengerjaan projek ini menggunakan satu jenis dataset:
 - Pola musiman terlihat pada penjualan TechHub, dengan puncak tertinggi terjadi pada bulan Januari dan penurunan penjualan paling rendah di bulan September.
 - Tiga negara penyumbang pendapatan terbesar adalah Jepang, Brasil, dan India.
 - Amerika mencatat pertumbuhan yang mengesankan sebesar +41% pada tahun 2021, meskipun tetap menunjukkan pola yang fluktuatif.
+![Table1](Visualizations/Table 1.jpeg)
+![Annual Sales and Growth Rates](Visualizations/Customer Repeat Rate.jpeg)
 
 ## Key Product Performance
 
